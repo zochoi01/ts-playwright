@@ -1,0 +1,12 @@
+"use strict";
+let userId;
+userId = 101;
+userId = "ID_101";
+let clickType;
+clickType = "left";
+// clickType = "double-click";
+let os;
+os = "Windows";
+os = "Mac";
+os = "Linux";
+// os = "Android";
