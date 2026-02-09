@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 /**
  * DAY 32: PROMISE.ALL & PARALLEL EXECUTION
  * Mục tiêu: Chạy nhiều tác vụ cùng lúc để tiết kiệm thời gian.
@@ -48,4 +50,3 @@ async function runAllTasks() {
     }
 }
 runAllTasks();
-export {};
